@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\visual studio\zar oyunu ikinci ödev\zar oyunu ikinci ödev\bin\Debug\zar oyunu ikinci ödev.exe.config
+C:\Users\USER\Desktop\visual studio\zar oyunu ikinci ödev\zar oyunu ikinci ödev\bin\Debug\zar oyunu ikinci ödev.exe
+C:\Users\USER\Desktop\visual studio\zar oyunu ikinci ödev\zar oyunu ikinci ödev\bin\Debug\zar oyunu ikinci ödev.pdb
+C:\Users\USER\Desktop\visual studio\zar oyunu ikinci ödev\zar oyunu ikinci ödev\obj\Debug\zar oyunu ikinci ödev.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\visual studio\zar oyunu ikinci ödev\zar oyunu ikinci ödev\obj\Debug\zar oyunu ikinci ödev.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\visual studio\zar oyunu ikinci ödev\zar oyunu ikinci ödev\obj\Debug\zar oyunu ikinci ödev.exe
+C:\Users\USER\Desktop\visual studio\zar oyunu ikinci ödev\zar oyunu ikinci ödev\obj\Debug\zar oyunu ikinci ödev.pdb
